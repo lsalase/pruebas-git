@@ -1,1 +1,5 @@
 saludo inicial con datos
+
+mas información para el fichero
+
+y otra información adicional
