@@ -1,4 +1,4 @@
-saludo inicial con datos
+saludo inicial con datos: STASH
 
 mas información para el fichero
 
